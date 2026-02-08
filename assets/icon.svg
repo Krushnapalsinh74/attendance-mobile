@@ -1,0 +1,31 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#4A90E2"/>
+  
+  <!-- White rounded card -->
+  <rect x="162" y="162" width="700" height="700" rx="80" fill="#FFFFFF"/>
+  
+  <!-- Person icon circle -->
+  <circle cx="512" cy="380" r="100" fill="#4A90E2"/>
+  
+  <!-- Body/shoulders -->
+  <path d="M 412 480 Q 412 530, 362 550 L 662 550 Q 612 530, 612 480 Z" fill="#4A90E2"/>
+  
+  <!-- Checkmark list item 1 -->
+  <rect x="312" y="580" width="400" height="60" rx="15" fill="#F0F0F0"/>
+  <circle cx="355" cy="610" r="22" fill="#34C759"/>
+  <path d="M 345 610 L 352 617 L 365 602" stroke="#FFFFFF" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="400" y="600" width="250" height="20" rx="5" fill="#D0D0D0"/>
+  
+  <!-- Checkmark list item 2 -->
+  <rect x="312" y="660" width="400" height="60" rx="15" fill="#F0F0F0"/>
+  <circle cx="355" cy="690" r="22" fill="#34C759"/>
+  <path d="M 345 690 L 352 697 L 365 682" stroke="#FFFFFF" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="400" y="680" width="200" height="20" rx="5" fill="#D0D0D0"/>
+  
+  <!-- Checkmark list item 3 -->
+  <rect x="312" y="740" width="400" height="60" rx="15" fill="#F0F0F0"/>
+  <circle cx="355" cy="770" r="22" fill="#34C759"/>
+  <path d="M 345 770 L 352 777 L 365 762" stroke="#FFFFFF" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="400" y="760" width="280" height="20" rx="5" fill="#D0D0D0"/>
+</svg>
